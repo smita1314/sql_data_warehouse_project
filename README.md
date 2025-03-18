@@ -18,7 +18,7 @@ Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
  
  @@ -65,19 +75,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
  
- For more details, refer to [docs/requirements.md](docs/requirements.md).
+
  
  ---
  ## 🏗️ Data Architecture
